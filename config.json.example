@@ -1,0 +1,11 @@
+{
+    "host_data":{
+        "address":"<HOST_ADDRESS>",
+        "username":"<USERNAME>",
+        "port":22
+    },
+    "remote_path":"<PATH>",
+    "files":[
+        "<LIST_OF_FILES>"
+    ]
+}
